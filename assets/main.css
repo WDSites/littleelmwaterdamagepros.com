@@ -302,3 +302,11 @@ footer.site-footer .tel-big{font-family:var(--font-head);font-size:28px;font-wei
 .linkcard .thumb{display:block;line-height:0;background:var(--navy)}
 .linkcard .thumb img{width:100%;height:auto;aspect-ratio:16/9;object-fit:cover}
 .linkcard.has-thumb .lc-body{padding:18px 20px 20px}
+
+.findblock{margin-top:40px;padding:28px;background:var(--sand);border-radius:var(--r-md);border:1px solid var(--line)}
+.findblock h3{font-size:22px;margin:0 0 8px;font-family:var(--font-body);font-weight:700;letter-spacing:normal}
+.findblock p{color:var(--ink-soft);margin-bottom:14px}
+.chiplist{list-style:none;margin:0 0 14px;padding:0;display:flex;flex-wrap:wrap;gap:8px}
+.chiplist a{display:inline-block;padding:8px 14px;background:#fff;border:1px solid var(--line);border-radius:999px;color:var(--navy);text-decoration:none;font-weight:600;font-size:14.5px}
+.chiplist a:hover{border-color:var(--red);color:var(--red)}
+.findblock .findmore{margin:0;font-weight:700}
